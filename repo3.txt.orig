@@ -1,0 +1,6 @@
+Archivo de texto para hacer un git pull
+<<<<<<< HEAD
+Estoy modificando repo3 desde local
+=======
+Estoy modificando repo3 desde remoto
+>>>>>>> 054984667e1b586c406ed392efbc0e629e78166e
